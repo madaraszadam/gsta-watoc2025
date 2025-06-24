@@ -10,4 +10,4 @@ Links and references for WATOC 2025 poster
 6. László Turi, Bence Baranyi, Ádám Madarász. 2-in-1 Phase Space Sampling for Calculating the Absorption Spectrum of the Hydrated Electron J. Chem. Theory Comput. 2024, 20, 4265. https://doi.org/10.1021/acs.jctc.4c00106
 7. Ádám Madarász, Gergely Laczkó. Application of Deconvolution in Path Integral Simulations J. Chem. Theory Comput. 2024, 20, 9562. https://doi.org/10.1021/acs.jctc.4c00564
 8. Ádám Madarász, Bence Mészáros, János Daru. manuscript in preparation https://www.overleaf.com/read/xwpfhszyjfwn#6dede0
-9. Ádám Madarász: PLUMED-GSTA plugin repository, GitHub. [PLUMED-GSTA GitHub oldal](https://github.com/madaraszadam/PLUMED-GSTA)
+9. Ádám Madarász: PLUMED-GSTA plugin repository, GitHub. [https://github.com/madaraszadam/PLUMED-GSTA)](https://github.com/madaraszadam/PLUMED-GSTA)
